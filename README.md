@@ -1,5 +1,9 @@
 # WIEEE-Team
 
+
+https://denim-forest-d3a.notion.site/Intro-to-Microcontrollers-1352f9491c4f805abb12d9f4955a73c4
+
+
 # 1. Introduction
 Welcome to Formula WIEEE, where curiosity meets circuitry and creativity takes the
 wheel. Co-hosted by Women in Engineering and IEEE Concordia, this beginner-friendly
