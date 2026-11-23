@@ -35,36 +35,57 @@ c. Grand Prix: Head-to-head race for the championship.
 2.2.1. Materials
 
 Each team will receive a standardized kit, which includes:
+
 ● ESP32
+
 ● 2x (DC motors + 2x wheels)
+
 ● Ball Wheel
+
 ● Motor driver
+
 ● Wire
+
 ● 4x AA batteries (building phase)
+
 ● 4x AA batteries (race day)
+
 2.2.2 External Additions
 
 Teams are permitted to use minor external components that assist with stability,
 structure, or design, but do not provide a major competitive advantage.
 Examples of allowed additions include:
+
 ● Neutral (free-rolling) wheels for added balance or smoother turning
+
 ● Mounting hardware such as screws, bolts, zip ties, or tape
+
 ● Foam, cardboard, or plastic supports to reinforce the chassis or protect wiring
+
 ● Decorative or aesthetic parts (stickers, body shells, flags, etc.) that don’t affect
 performance
+
 ● Small bearings or bushings used passively to reduce friction
+
 ● Battery holders or clips for alternate mounting setups
+
 ● Wire extensions or jumper cables for improved layout flexibility
+
 These modifications are allowed to encourage creativity and improve durability without
 providing additional power or functionality.
 
 2.2.3 Prohibited Additions
 The following components are not allowed:
 
+
 ● External or additional power sources (e.g., LiPo batteries, USB banks, etc.)
+
 ● Additional motors, servos, or sensors beyond the provided kit
+
 ● Alternate microcontrollers or communication modules
+
 ● Modified or upgraded motor drivers
+
 ● Any component that provides a performance or control advantage beyond the
 standard kit
 
