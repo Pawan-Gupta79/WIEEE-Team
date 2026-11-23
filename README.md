@@ -39,7 +39,7 @@ Each team will receive a standardized kit, which includes:
 ● 2x (DC motors + 2x wheels)
 ● Ball Wheel
 ● Motor driver
-● Wires
+● Wire
 ● 4x AA batteries (building phase)
 ● 4x AA batteries (race day)
 2.2.2 External Additions
@@ -60,6 +60,7 @@ providing additional power or functionality.
 
 2.2.3 Prohibited Additions
 The following components are not allowed:
+
 ● External or additional power sources (e.g., LiPo batteries, USB banks, etc.)
 ● Additional motors, servos, or sensors beyond the provided kit
 ● Alternate microcontrollers or communication modules
